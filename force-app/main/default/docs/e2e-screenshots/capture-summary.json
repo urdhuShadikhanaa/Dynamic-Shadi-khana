@@ -1,0 +1,45 @@
+{
+  "portalUrl": "https://urdhushadikhanaa-dev-ed.develop.my.site.com/urdushadikhana",
+  "results": [
+    {
+      "name": "01-portal-home-guest",
+      "filePath": "C:\\Users\\PSK\\Documents\\shadikhanaa\\docs\\e2e-screenshots\\01-portal-home-guest.png",
+      "ok": true
+    },
+    {
+      "name": "02-booking-step1-date-selected",
+      "filePath": "C:\\Users\\PSK\\Documents\\shadikhanaa\\docs\\e2e-screenshots\\02-booking-step1-date-selected.png",
+      "ok": true
+    },
+    {
+      "name": "03-booking-step2-event-details",
+      "filePath": "C:\\Users\\PSK\\Documents\\shadikhanaa\\docs\\e2e-screenshots\\03-booking-step2-event-details.png",
+      "ok": true
+    },
+    {
+      "name": "04-booking-step3-contact",
+      "filePath": "C:\\Users\\PSK\\Documents\\shadikhanaa\\docs\\e2e-screenshots\\04-booking-step3-contact.png",
+      "ok": true
+    },
+    {
+      "name": "04-booking-step3-contact-filled",
+      "filePath": "C:\\Users\\PSK\\Documents\\shadikhanaa\\docs\\e2e-screenshots\\04-booking-step3-contact-filled.png",
+      "ok": true
+    },
+    {
+      "name": "05-booking-step4-review",
+      "filePath": "C:\\Users\\PSK\\Documents\\shadikhanaa\\docs\\e2e-screenshots\\05-booking-step4-review.png",
+      "ok": true
+    },
+    {
+      "name": "06-admin-login-page",
+      "filePath": "C:\\Users\\PSK\\Documents\\shadikhanaa\\docs\\e2e-screenshots\\06-admin-login-page.png",
+      "ok": true
+    },
+    {
+      "name": "07-admin-flow-partial",
+      "filePath": "C:\\Users\\PSK\\Documents\\shadikhanaa\\docs\\e2e-screenshots\\07-admin-flow-partial.png",
+      "ok": true
+    }
+  ]
+}
